@@ -1,0 +1,6 @@
+{
+ "name":"derivada-lab-pages","version":"6.0.0","private":true,
+ "description":"Interfaz estática para GitHub Pages con Supabase Auth y funciones PostgreSQL",
+ "scripts":{"test":"node --test tests/math.test.mjs tests/frontend.test.mjs tests/cloud.test.mjs","test:sql":"node --test tests/sql.integration.mjs tests/exclusive.integration.mjs"},
+ "devDependencies":{"@electric-sql/pglite":"0.5.15"}
+}

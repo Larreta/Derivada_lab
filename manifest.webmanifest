@@ -1,0 +1,10 @@
+{
+  "id": "./", "name": "Derivada Lab · Retos de derivadas", "short_name": "Derivada Lab",
+  "description": "Aprende derivadas con retos del mundo real.", "lang": "es",
+  "start_url": "./", "scope": "./", "display": "standalone",
+  "background_color": "#101d2c", "theme_color": "#101d2c",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose":"any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose":"any"}
+  ]
+}
